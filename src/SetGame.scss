@@ -1,0 +1,118 @@
+.game {
+  margin: 20px;
+
+  span {
+    margin-right: 20px;
+  }
+}
+
+.board {
+  margin: 0 auto;
+
+  .board-row {
+    display: flex;
+    margin: 10px;
+  }
+}
+
+
+.card {
+  width: 250px;
+  height: 120px;
+  border-radius: 4px;
+  border: 2px solid gray;
+  margin-right: 10px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
+  }
+
+  &.selected {
+    background-color: silver;
+  }
+
+  .card-item {
+    width: 40px;
+    height: 80px;
+    margin: 0 10px;
+  }
+
+  // OVAL
+  &.oval .card-item {
+    border-radius: 50%;
+  }
+
+  // DIAMOND
+  &.diamond .card-item {
+
+  }
+
+  // SQUIGGLE
+  &.squiggle .card-item {
+    transform: skew(20deg); 
+  }
+
+  // RED
+  &.red.solid .card-item {
+    background-color: #ff0000;
+  }
+
+  &.red.open .card-item {
+    border: 1px solid #ff0000;
+  }
+
+  &.red.striped .card-item {
+    border: 1px solid #ff0000;
+    background: repeating-linear-gradient(
+      45deg,
+      #ff0000,
+      #ff0000 5px,
+      #ffffff 5px,
+      #ffffff 10px
+    );
+  }
+
+  // GREEN
+  &.green.solid .card-item {
+    background-color: #008000;
+  }
+
+  &.green.open .card-item {
+    border: 1px solid #008000;
+  }
+
+  &.green.striped .card-item {
+    border: 1px solid #008000;
+    background: repeating-linear-gradient(
+      45deg,
+      #008000,
+      #008000 5px,
+      #ffffff 5px,
+      #ffffff 10px
+    );
+  }
+
+  // PURPLE
+  &.purple.solid .card-item {
+    background-color: #800080;
+  }
+
+  &.purple.open .card-item {
+    border: 1px solid #800080;
+  }
+
+  &.purple.striped .card-item {
+    border: 1px solid #800080;
+    background: repeating-linear-gradient(
+      45deg,
+      #800080,
+      #800080 5px,
+      #ffffff 5px,
+      #ffffff 10px
+    );
+  }
+}

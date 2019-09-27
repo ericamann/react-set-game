@@ -1,0 +1,110 @@
+  
+[
+  {"color": "red", "count": 1, "shape": "oval", "fill": "solid"},
+  {"color": "red", "count": 1, "shape": "oval", "fill": "striped"},
+  {"color": "red", "count": 1, "shape": "oval", "fill": "open"},
+
+  {"color": "red", "count": 1, "shape": "diamond", "fill": "solid"},
+  {"color": "red", "count": 1, "shape": "diamond", "fill": "striped"},
+  {"color": "red", "count": 1, "shape": "diamond", "fill": "open"},
+
+  {"color": "red", "count": 1, "shape": "squiggle", "fill": "solid"},
+  {"color": "red", "count": 1, "shape": "squiggle", "fill": "striped"},
+  {"color": "red", "count": 1, "shape": "squiggle", "fill": "open"},
+
+  {"color": "red", "count": 2, "shape": "oval", "fill": "solid"},
+  {"color": "red", "count": 2, "shape": "oval", "fill": "striped"},
+  {"color": "red", "count": 2, "shape": "oval", "fill": "open"},
+
+  {"color": "red", "count": 2, "shape": "diamond", "fill": "solid"},
+  {"color": "red", "count": 2, "shape": "diamond", "fill": "striped"},
+  {"color": "red", "count": 2, "shape": "diamond", "fill": "open"},
+
+  {"color": "red", "count": 2, "shape": "squiggle", "fill": "solid"},
+  {"color": "red", "count": 2, "shape": "squiggle", "fill": "striped"},
+  {"color": "red", "count": 2, "shape": "squiggle", "fill": "open"},
+
+  {"color": "red", "count": 3, "shape": "oval", "fill": "solid"},
+  {"color": "red", "count": 3, "shape": "oval", "fill": "striped"},
+  {"color": "red", "count": 3, "shape": "oval", "fill": "open"},
+
+  {"color": "red", "count": 3, "shape": "diamond", "fill": "solid"},
+  {"color": "red", "count": 3, "shape": "diamond", "fill": "striped"},
+  {"color": "red", "count": 3, "shape": "diamond", "fill": "open"},
+
+  {"color": "red", "count": 3, "shape": "squiggle", "fill": "solid"},
+  {"color": "red", "count": 3, "shape": "squiggle", "fill": "striped"},
+  {"color": "red", "count": 3, "shape": "squiggle", "fill": "open"},
+
+  {"color": "green", "count": 1, "shape": "oval", "fill": "solid"},
+  {"color": "green", "count": 1, "shape": "oval", "fill": "striped"},
+  {"color": "green", "count": 1, "shape": "oval", "fill": "open"},
+
+  {"color": "green", "count": 1, "shape": "diamond", "fill": "solid"},
+  {"color": "green", "count": 1, "shape": "diamond", "fill": "striped"},
+  {"color": "green", "count": 1, "shape": "diamond", "fill": "open"},
+
+  {"color": "green", "count": 1, "shape": "squiggle", "fill": "solid"},
+  {"color": "green", "count": 1, "shape": "squiggle", "fill": "striped"},
+  {"color": "green", "count": 1, "shape": "squiggle", "fill": "open"},
+
+  {"color": "green", "count": 2, "shape": "oval", "fill": "solid"},
+  {"color": "green", "count": 2, "shape": "oval", "fill": "striped"},
+  {"color": "green", "count": 2, "shape": "oval", "fill": "open"},
+
+  {"color": "green", "count": 2, "shape": "diamond", "fill": "solid"},
+  {"color": "green", "count": 2, "shape": "diamond", "fill": "striped"},
+  {"color": "green", "count": 2, "shape": "diamond", "fill": "open"},
+
+  {"color": "green", "count": 2, "shape": "squiggle", "fill": "solid"},
+  {"color": "green", "count": 2, "shape": "squiggle", "fill": "striped"},
+  {"color": "green", "count": 2, "shape": "squiggle", "fill": "open"},
+
+  {"color": "green", "count": 3, "shape": "oval", "fill": "solid"},
+  {"color": "green", "count": 3, "shape": "oval", "fill": "striped"},
+  {"color": "green", "count": 3, "shape": "oval", "fill": "open"},
+
+  {"color": "green", "count": 3, "shape": "diamond", "fill": "solid"},
+  {"color": "green", "count": 3, "shape": "diamond", "fill": "striped"},
+  {"color": "green", "count": 3, "shape": "diamond", "fill": "open"},
+
+  {"color": "green", "count": 3, "shape": "squiggle", "fill": "solid"},
+  {"color": "green", "count": 3, "shape": "squiggle", "fill": "striped"},
+  {"color": "green", "count": 3, "shape": "squiggle", "fill": "open"},
+
+  {"color": "purple", "count": 1, "shape": "oval", "fill": "solid"},
+  {"color": "purple", "count": 1, "shape": "oval", "fill": "striped"},
+  {"color": "purple", "count": 1, "shape": "oval", "fill": "open"},
+
+  {"color": "purple", "count": 1, "shape": "diamond", "fill": "solid"},
+  {"color": "purple", "count": 1, "shape": "diamond", "fill": "striped"},
+  {"color": "purple", "count": 1, "shape": "diamond", "fill": "open"},
+
+  {"color": "purple", "count": 1, "shape": "squiggle", "fill": "solid"},
+  {"color": "purple", "count": 1, "shape": "squiggle", "fill": "striped"},
+  {"color": "purple", "count": 1, "shape": "squiggle", "fill": "open"},
+
+  {"color": "purple", "count": 2, "shape": "oval", "fill": "solid"},
+  {"color": "purple", "count": 2, "shape": "oval", "fill": "striped"},
+  {"color": "purple", "count": 2, "shape": "oval", "fill": "open"},
+
+  {"color": "purple", "count": 2, "shape": "diamond", "fill": "solid"},
+  {"color": "purple", "count": 2, "shape": "diamond", "fill": "striped"},
+  {"color": "purple", "count": 2, "shape": "diamond", "fill": "open"},
+
+  {"color": "purple", "count": 2, "shape": "squiggle", "fill": "solid"},
+  {"color": "purple", "count": 2, "shape": "squiggle", "fill": "striped"},
+  {"color": "purple", "count": 2, "shape": "squiggle", "fill": "open"},
+
+  {"color": "purple", "count": 3, "shape": "oval", "fill": "solid"},
+  {"color": "purple", "count": 3, "shape": "oval", "fill": "striped"},
+  {"color": "purple", "count": 3, "shape": "oval", "fill": "open"},
+
+  {"color": "purple", "count": 3, "shape": "diamond", "fill": "solid"},
+  {"color": "purple", "count": 3, "shape": "diamond", "fill": "striped"},
+  {"color": "purple", "count": 3, "shape": "diamond", "fill": "open"},
+
+  {"color": "purple", "count": 3, "shape": "squiggle", "fill": "solid"},
+  {"color": "purple", "count": 3, "shape": "squiggle", "fill": "striped"},
+  {"color": "purple", "count": 3, "shape": "squiggle", "fill": "open"}
+]
